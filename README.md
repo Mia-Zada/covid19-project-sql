@@ -9,6 +9,7 @@ Exploring relationships between testing rates, deaths, and population metrics ac
 - Is there a correlation between testing rates and death rates?
 - Do correlations change when shifting deaths by 14–21 days?
 - Which countries show the largest gap between reported deaths and excess-mortality estimates?
+- what is the mortality rate in each country?
 
 ## Methods
 - SQL queries (window functions, aggregations, joins)
