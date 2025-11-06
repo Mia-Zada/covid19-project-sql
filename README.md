@@ -19,5 +19,4 @@ Exploring relationships between testing rates, deaths, and population metrics ac
 ## Tools
 PostgreSQL · DBeaver · GitHub
 
-## Results (high level)
-- Add 2–3 bullet points once you finalize findings.
+
